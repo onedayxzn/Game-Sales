@@ -2,7 +2,7 @@
 
 ## Latar Belakang
 
-Dataset ini berisi tentang data penjualan game yang diambil dari tahun 1984 hingga 2021. Dataset ini memiliki 11 kolom yang berisi tentang data penjualan game di dunia. Pada data ini dicari informasi tentang game yang paling laris, dan genre game yang paling banyak digemari dan lain sebagainya.
+Dataset ini berisi tentang data penjualan game yang diambil dari tahun 1984 hingga 2021. Dataset ini memiliki 7 kolom yang berisi tentang data penjualan game di dunia. Pada data ini dicari informasi tentang game yang paling laris, dan genre game yang paling banyak digemari dan lain sebagainya.
 
 ## Question Bussiness
 
