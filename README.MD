@@ -794,9 +794,12 @@ Blizzard Entertainment: 10
 </div>
 
 4. Berapa banyak game yang dirilis setiap tahunnya
+
    ![alt text](image-2.png)
 
-Data data diatas, terlihat bahwa grafik menunjukkan bahwa game yang dirilis setiap tahunnya tidak stabil, terkesan naik turun. 5. Series game manakah yang paling banyak penjualannya
+Data data diatas, terlihat bahwa grafik menunjukkan bahwa game yang dirilis setiap tahunnya tidak stabil, terkesan naik turun.
+
+5. Series game manakah yang paling banyak penjualannya
 `   Series
     PlayerUnknown's Battlegrounds    42.0
     Minecraft                        33.0
