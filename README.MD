@@ -1,5 +1,36 @@
 # GAME SALES ANALYSIS BY Sukma Ramadhan Asri
 
+#### cara menjalankan program jupyter notebook
+
+1. buat virtual environment
+   dengan cara
+
+```python
+python -m venv venv
+```
+
+2. aktifkan virtual environment
+
+```python
+venv\Scripts\activate
+```
+
+3. install requirements
+
+```python
+pip install -r requirements.txt
+```
+
+#### Cara menjalankan streamlit
+
+1. buka terminal
+2. masuk ke dalam folder project
+3. jalankan perintah berikut
+
+```python
+streamlit run Streamlit/dashboard.py
+```
+
 ## Latar Belakang
 
 Dataset ini berisi tentang data penjualan game yang diambil dari tahun 1980 hingga 2016. Dataset ini memiliki 11 kolom yang berisi tentang data penjualan game di dunia. Pada data ini dicari informasi tentang game yang paling laris, dan genre game yang paling banyak digemari dan lain sebagainya.
@@ -345,7 +376,7 @@ output
 </table>
 </div>
 
-Dari data diatas, terlihat bahwa kolom Series sudah tidak memiliki nilai NaN lagi. Kita dapat lihat bahwa kolom Series sudah diisi dengan data yang diambil dari kolom Name. contohnya pada kolom ke 1 dengan nama game "PlayerUnknown's Battlegrounds" dan kolom ke 3 dengan nama series "PlayerUnknown's Battlegrounds". Yang awalnya memiliki nilai NaN sekarang sudah diisi dengan nama game tersebut.
+Dari data diatas, terihat bahwa kolom Series sudah tidak memiliki nilai NaN lagi. Kita dapat lihat bahwa kolom Series sudah diisi dengan data yang diambil dari kolom Name. contohnya pada kolom ke 1 dengan nama game "PlayerUnknown's Battlegrounds" dan kolom ke 3 dengan nama series "PlayerUnknown's Battlegrounds". Yang awalnya memiliki nilai NaN sekarang sudah diisi dengan nama game tersebut.
 
 Cek kembali missing value
 
@@ -388,13 +419,13 @@ Menjawab pertanyaan bussiness dengan visualisisasi data
 
   2. Publisher manakah yang paling banyak merilis game
 
-  ![alt text](image.png)
+  ![alt text](Assets\image.png)
 
   Dari data diatas, terlihat bahwa publisher yang paling banyak merilis game adalah "Electronic Arts".
 
   3. Developer manakah yang paling banyak membuat game
 
-  ![alt text](image-1.png)
+  ![alt text](Assets\image-1.png)
 
   Dari data diatas, terlihat bahwa developer yang paling banyak membuat game adalah "Blizzard Entertainment".
 
@@ -794,22 +825,21 @@ Blizzard Entertainment: 10
 </div>
 
 4. Berapa banyak game yang dirilis setiap tahunnya
-   ![alt text](image-2.png)
+   ![alt text](Assets\image-2.png)
 
 Data data diatas, terlihat bahwa grafik menunjukkan bahwa game yang dirilis setiap tahunnya tidak stabil, terkesan naik turun. 5. Series game manakah yang paling banyak penjualannya
-`   Series
+`Series
     PlayerUnknown's Battlegrounds    42.0
     Minecraft                        33.0
     Diablo                           26.0
     The Sims                         24.0
-    Half-Life                        21.0
-  `
+    Half-Life                        21.0`
 
 Series game dengan penjualan terbanyak adalah "PlayerUnknown's Battlegrounds" dengan penjualan sebesar 42
 
 6. Genre game manakah yang paling banyak dibuat/rilis
 
-![alt text](image-3.png)
+![alt text](Assets\image-3.png)
 
 Dari data diatas, terlihat bahwa genre game yang paling banyak dibuat/rilis adalah "Real-time strategy' 7. Genre game manakah yang paling banyak penjualannya
 
