@@ -419,13 +419,13 @@ Menjawab pertanyaan bussiness dengan visualisisasi data
 
   2. Publisher manakah yang paling banyak merilis game
 
-  ![alt text](Assets\image.png)
+  ![alt text](Assets/image.png)
 
   Dari data diatas, terlihat bahwa publisher yang paling banyak merilis game adalah "Electronic Arts".
 
   3. Developer manakah yang paling banyak membuat game
 
-  ![alt text](Assets\image-1.png)
+  ![alt text](Assets/image-1.png)
 
   Dari data diatas, terlihat bahwa developer yang paling banyak membuat game adalah "Blizzard Entertainment".
 
@@ -825,7 +825,7 @@ Blizzard Entertainment: 10
 </div>
 
 4. Berapa banyak game yang dirilis setiap tahunnya
-   ![alt text](Assets\image-2.png)
+   ![alt text](Assets/image-2.png)
 
 Data data diatas, terlihat bahwa grafik menunjukkan bahwa game yang dirilis setiap tahunnya tidak stabil, terkesan naik turun. 5. Series game manakah yang paling banyak penjualannya
 `Series
@@ -839,7 +839,7 @@ Series game dengan penjualan terbanyak adalah "PlayerUnknown's Battlegrounds" de
 
 6. Genre game manakah yang paling banyak dibuat/rilis
 
-![alt text](Assets\image-3.png)
+![alt text](Assets/image-3.png)
 
 Dari data diatas, terlihat bahwa genre game yang paling banyak dibuat/rilis adalah "Real-time strategy' 7. Genre game manakah yang paling banyak penjualannya
 
